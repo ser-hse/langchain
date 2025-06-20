@@ -1,0 +1,23 @@
+torch --index-url https://download.pytorch.org/whl/cu126
+torchvision --index-url https://download.pytorch.org/whl/cu126
+torchaudio --index-url https://download.pytorch.org/whl/cu126
+langchain-chroma
+langchain
+langchain-openai
+langchain-core
+langchain_community
+docx2txt
+pypdf
+python-multipart
+fastapi
+uvicorn
+langchain-ollama
+langchain 
+langchain-huggingface 
+sentence_transformers
+einops 
+langchain_chroma
+datasets
+langchain-graph-retriever
+langchain-graph-retriever[chroma]
+python-dotenv
