@@ -1,2 +1,4 @@
 .env
 chroma_db
+echo "llama_index/" >> .gitignore
+echo "vllm/" >> .gitignore
