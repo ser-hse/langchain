@@ -22,3 +22,6 @@ langchain-graph-retriever
 langchain-graph-retriever[chroma]
 python-dotenv
 chromadb==0.6.3
+langgraph 
+langchain-tavily 
+langgraph-checkpoint-sqlite
